@@ -1,0 +1,9 @@
+
+extend type Query {
+  
+}
+extend type Subscription {
+  
+}
+extend type Mutation {
+}
